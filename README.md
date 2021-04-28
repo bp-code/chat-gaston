@@ -24,6 +24,8 @@ npm start
 ## Dependecies
 - [Express](https://expressjs.com/) - A web framework for Node.js
 - [dotenv](https://www.npmjs.com/package/dotenv) - Package to use environment variables
+- [Materialize css](https://materializecss.com/) - Responsive framework based on Material Design (CDN)
+
 
 ## Notes
 
