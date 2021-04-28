@@ -1,0 +1,30 @@
+{
+  "name": "chat-gaston",
+  "version": "1.0.0",
+  "description": "real time chat",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bp-code/chat-gaston.git"
+  },
+  "keywords": [
+    "js",
+    "html",
+    "web",
+    "socket"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bp-code/chat-gaston/issues"
+  },
+  "homepage": "https://github.com/bp-code/chat-gaston#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
